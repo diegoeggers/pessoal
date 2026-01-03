@@ -4,5 +4,5 @@
   "apkUrl": "https://raw.githubusercontent.com/diegoeggers/pessoal/refs/heads/main/releases/download/v1.0.1/app-release.apk",
   "changelog": "Correções e melhorias.",
   
-  "serverUrl": "http://play.dnsrot.vip"
+  "serverUrl": "play.dnsrot.vip"
 }
